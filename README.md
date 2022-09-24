@@ -1,6 +1,6 @@
 ### Hi, my name is Ryan!
 
-I am a computer science student that is currently in high school.
+I'm a Carleton Computer Science Honours student!
 
 ### Programming languages
 
@@ -27,3 +27,7 @@ I am a computer science student that is currently in high school.
   ![image](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
   ![image](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
   ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+### Spoken Languages
+French (native fluency)
+English (native fluency)
