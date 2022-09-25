@@ -42,5 +42,7 @@ I'm a Computer Science Honours student at Carleton University. On my free time, 
 ![image](./assets/intellij-idea.svg)
 
 ### Spoken Languages
+![image](./assets/frenchflagframed.svg)
+![image](./assets/englishflag.svg)
 - English
 - French
