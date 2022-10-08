@@ -4,7 +4,7 @@
 
 I'm a Computer Science Honours student at Carleton University. On my free time, I love learning about new Computer Science languages and concepts to help further my understanding!
 
-## The ever-growing list of my knowledge:
+## Programming Toolbox:
 ### Programming Languages/Technologies
 ![image](./assets/python-original.svg)
 ![image](./assets/kotlin-original.svg)
