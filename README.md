@@ -14,6 +14,8 @@ I'm a Computer Science Honours student at Carleton University. On my free time, 
 ![image](./assets/html5-plain.svg)
 ![image](./assets/css3-plain.svg)
 ![image](./assets/javascript-original.svg)
+![image](./assets/webflow-original.svg)
+![image](./assets/wordpress-plain.svg)
 
 ### Tools
 ![image](./assets/figma-original.svg)
@@ -24,10 +26,6 @@ I'm a Computer Science Honours student at Carleton University. On my free time, 
 ![image](./assets/android-original.svg)
 ![image](./assets/apple-original.svg)
 ![image](./assets/linux-original.svg)
-![image](./assets/raspberrypi-original.svg)
-![image](./assets/ubuntu-plain.svg)
-![image](./assets/webflow-original.svg)
-![image](./assets/wordpress-plain.svg)
 ![image](./assets/vscode-original.svg)
 ![image](./assets/androidstudio-original.svg)
 ![image](./assets/vim-original.svg)
